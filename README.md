@@ -1,6 +1,8 @@
 # Alura-Plus
 Olá, bem vindo ao meu primeiro site desenvolvido durante o curso de HTML e CSS da plataforma Alura.
 
+![aluraplus](https://github.com/maitebecker/alura-plus/assets/140245037/2ca8eaa5-c8ac-4bde-be7b-2a3f0ea21338)
+
 ## ✔️ Ferramentas utilizadas:
 - HTML
 - CSS
