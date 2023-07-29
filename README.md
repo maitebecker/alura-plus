@@ -9,7 +9,7 @@ Olá, bem vindo ao meu primeiro site desenvolvido durante o curso de HTML e CSS 
 - Flex-box
 
 ## 📁 Acesso ao projeto:
-https://maitebecker.github.io/alura-plus/
+https://alura-plus-phi-blue.vercel.app/
 
 ### Maitê Becker
 
