@@ -1,5 +1,5 @@
 # Alura-Plus
-Olá, bem vindo ao meu primeiro site desenvolvido durante o curso de HTML e CSS da alura
+Olá, bem vindo ao meu primeiro site desenvolvido durante o curso de HTML e CSS da plataforma Alura.
 
 ## ✔️ Ferramentas utilizadas:
 - HTML
